@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
 # Hi, I'm Sri Guru Charan 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+Full-Stack+Engineer;Building+Multi-Agent+GenAI+Systems;LangGraph+%7C+RAG+%7C+Production-Ready+AI" alt="Typing SVG" />
+**AI / Full-Stack Engineer building production-grade multi-agent GenAI systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-guru-charan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sri-guru-charan.vercel.app/)
