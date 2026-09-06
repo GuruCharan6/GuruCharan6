@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi, I'm Sri Guru Charan 👋
+# Hi, I'm Sri Guru Charan 
 
 **AI / Full-Stack Engineer building production-grade multi-agent GenAI systems**
 
