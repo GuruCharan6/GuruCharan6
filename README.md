@@ -14,12 +14,12 @@
 
 ### 👋 About Me
 
-I'm a Computer Science graduate specializing in **multi-agent LLM systems** and **production-ready GenAI applications**. I design and deploy intelligent systems across the full stack — Python, FastAPI, Next.js, and Supabase — with hands-on experience in LangGraph, RAG pipelines, prompt engineering, and LLM API integration. Focused on building reliable, scalable AI solutions for real-world problems.
+I'm a Computer Science graduate specializing in **multi-agent LLM systems** and **production-ready GenAI applications**. I design and deploy intelligent systems across the full stack - Python, FastAPI, Next.js, and Supabase - with hands-on experience in LangGraph, RAG pipelines, prompt engineering, and LLM API integration. Focused on building reliable, scalable AI solutions for real-world problems.
 
-- 🎓 B.Tech, CSE (Data Science) — Vignana Bharathi Institute of Technology, Hyderabad (2021–2025), CGPA 8.03
-- 📜 Applied Generative AI, Cohort 6 — **100xEngineers** (Mentor: Siddhant Goswami)
+- 🎓 B.Tech, CSE (Data Science) - Vignana Bharathi Institute of Technology, Hyderabad (2021–2025), CGPA 8.03
+- 📜 Applied Generative AI, Cohort 6 - **100xEngineers** (Mentor: Siddhant Goswami)
 - 💼 **Currently open to AI Engineer roles**
-- 🛠️ Building **[CareCircle](https://github.com/GuruCharan6/CareCircle)** — a multi-agent eldercare coordination platform, my flagship project
+- 🛠️ Building **[CareCircle](https://github.com/GuruCharan6/CareCircle)** - a multi-agent eldercare coordination platform, my flagship project
 - 🧪 Previously: Python Backend Developer at **iCompaas** (Jan 2025 – Jan 2026), building Flask REST APIs and automating QA with Selenium
 - 📫 Reach me at **gurucharanpunjala@gmail.com**
 
